@@ -25,3 +25,5 @@
 - pip install -r requirements.txt
 
 - fastapi dev main.py
+
+- Go to any web browser of choice and go to the url: localhost:8000/docs
